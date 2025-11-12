@@ -1,4 +1,4 @@
-Objectives:
+♦️Objectives:
 
 • Develop an RL agent that controls traffic signals in a simulated environment. 
 
@@ -7,11 +7,13 @@ fixed-timer controller within the simulation.
 
 • Create a dashboard to visualize the agent's performance and the live traffic flow. 
 
-• Scope: 
-    The project will focus on a single, simulated four-way intersection.
+
+♦️Scope:
+    
+   The project will focus on a single, simulated four-way intersection.
     The agent's training and evaluation will be done entirely within this simulation.
 
-Technology Stack: 
+♦️Technology Stack: 
 
 • Simulation: SUMO (Simulation of Urban MObility)
 
